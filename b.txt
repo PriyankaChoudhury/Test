@@ -1,2 +1,3 @@
 second file
 test message
+adding another line
